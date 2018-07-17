@@ -12,8 +12,9 @@ namespace TesteGit
         {
             Console.WriteLine("Hello World!!!!");
             Console.WriteLine("ALteracao1!!!!");
+            Console.WriteLine("ALteracao2!!!!");
             Console.WriteLine("Hello World!!!!");
-            Console.WriteLine("Hello World!!!!");
+            Console.WriteLine("ALteracao 3");
         }
     }
 }
